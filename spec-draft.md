@@ -1,7 +1,9 @@
 # SPEC — AI Product Hackathon
 
 **Nhóm:** 30-403-Day05
+
 **Track:** VinFast
+
 **Problem statement (1 câu):** *Khách hàng tìm hiểu mua xe VinFast gặp khó khăn khi tra cứu thông số, chính sách qua website và thường phải chờ đợi lâu ngoài giờ hành chính mới được hỗ trợ; AI Agent giúp tư vấn tự động 24/7, cung cấp chính xác thông số qua RAG và điều hướng người dùng đặt lịch lái thử ngay lập tức.*
 
 ---
